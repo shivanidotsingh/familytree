@@ -80,8 +80,9 @@
 }
 .genealogy-tree li a{
     text-decoration: none;
+    text-align: center;
     color: #666;
-    font-family: arial, verdana, tahoma;
+    font-family: Helvetica, verdana, tahoma;
     font-size: 11px;
     display: inline-block;
     border-radius: 5px;
@@ -111,6 +112,6 @@
     width: 60px;
     height: 60px;
     border-radius: 6px;
-  background-color :#000;
+  background-color :#FFF;
   z-index: 1;
 }
