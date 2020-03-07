@@ -1,7 +1,7 @@
 var json = 
 
 {
-    "name": "Thakur Malkhan Singh",
+    "name": "Thakur Malkhan Singh + Sidhyavati",
     "children": [{
         "name": "Sarla",
         "children": [{
@@ -18,7 +18,13 @@ var json =
         "name": "Sushila",
         "children": [{
             "name": "Alka",
-            "size": 17010
+            "children": [{
+                "name": "Chirag",
+                "size": 1983
+            }, {
+                "name": "Shivani",
+                "size": 2047
+            }]
         }, {
             "name": "Alpana",
             "children": [{
@@ -60,32 +66,6 @@ var json =
             "size": 1082
         }]
     }, {
-        "name": "Person8",
-        "children": [{
-            "name": "topher",
-            "size": 1616
-        }, {
-            "name": "And",
-            "size": 1027
-        }, {
-            "name": "Aan",
-            "size": 3891
-        },{
-            "name": "mirchi",
-            "children": [{
-                "name": "add",
-                "size": 593
-            }, {
-                "name": "pancake",
-                "size": 330
-            }]
-        }]
-    }, {
-        "name": "Person9",
-        "children": [{
-            "name": "Sumac",
-            "size": 2105
-        }, {
             "name": "Sunday",
             "size": 1316
         }]
