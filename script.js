@@ -20,10 +20,10 @@ var json =
             "name": "Alka",
             "children": [{
                 "name": "Chirag",
-                "size": 10704
+                "size": 1070
             }, {
                 "name": "Shivani",
-                "size": 2047
+                "size": 7045
             }]
         }, {
             "name": "Alpana",
