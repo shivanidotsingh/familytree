@@ -1,7 +1,7 @@
 var json = 
 
 {
-    "name": "Thakur Malkhan Singh + Sidhyavati",
+    "name": "Thakur Malkhan Singh",
     "children": [{
         "name": "Sarla",
         "children": [{
@@ -20,7 +20,7 @@ var json =
             "name": "Alka",
             "children": [{
                 "name": "Chirag",
-                "size": 1983
+                "size": 10704
             }, {
                 "name": "Shivani",
                 "size": 2047
