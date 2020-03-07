@@ -34,7 +34,7 @@
     display: flex;
 }
 .genealogy-tree li {
-    float: left; text-align: center;
+    float: center; text-align: center;
     list-style-type: none;
     position: relative;
     padding: 20px 5px 0 5px;
@@ -101,7 +101,7 @@
 .member-view-box{
     padding:0px 20px;
     text-align: center;
-    border-radius: 4px;
+    border-radius: 7px;
     position: relative;
 }
 .member-image{
@@ -111,7 +111,7 @@
 .member-image img{
     width: 60px;
     height: 60px;
-    border-radius: 6px;
+    border-radius: 7px;
   background-color :#FFF;
   z-index: 1;
 }
