@@ -1,11 +1,11 @@
 var json = 
 
 {
-    "name": "Grandmother Akkapeddi",
+    "name": "Thakur Malkhan Singh",
     "children": [{
-        "name": "Person1",
+        "name": "Sarla",
         "children": [{
-            "name": "Child1",
+            "name": "None",
             "children": [{
                 "name": "person3",
                 "size": 3938
@@ -15,34 +15,34 @@ var json =
             }]
         }]
     }, {
-        "name": "Person3",
+        "name": "Sushila",
         "children": [{
-            "name": "Eleanor",
+            "name": "Alka",
             "size": 17010
         }, {
-            "name": "Amadeus",
+            "name": "Alpana",
             "children": [{
-                "name": "Monday",
+                "name": "Shreya",
                 "size": 1983
             }, {
-                "name": "Coco",
+                "name": "Soorya",
                 "size": 2047
             }, {
-                "name": "Frida",
+                "name": "Bubbles",
                 "size": 1375
             }]
         }]
     }, {
-        "name": "Person5",
+        "name": "Urmila",
         "children": [{
-            "name": "Sam",
+            "name": "Rakesh",
             "children": [{
-                "name": "Kate",
+                "name": "Vikas",
                 "size": 721
             }]
         }]
     }, {
-        "name": "Person6",
+        "name": "Virendra",
         "children": [{
             "name": "Theo",
             "size": 8833
@@ -54,7 +54,7 @@ var json =
             "size": 3623
         }]
     }, {
-        "name": "Person7",
+        "name": "Nripendra",
         "children": [{
             "name": "Dragan",
             "size": 1082
