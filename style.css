@@ -37,7 +37,7 @@
     float: center; text-align: center;
     list-style-type: none;
     position: relative;
-    padding: 20px 5px 0 5px;
+    padding: 40px 5px 0 5px;
 }
 .genealogy-tree li::before, .genealogy-tree li::after{
     content: '';
