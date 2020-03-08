@@ -98,6 +98,11 @@
     border-color:  #fbba00;
 }
 
+a{
+  text-decoration: none; 
+
+}
+
 /*--------------memeber-card-design----------*/
 .member-view-box{
     padding:0px 20px;
