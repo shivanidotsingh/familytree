@@ -19,6 +19,10 @@
 }*/
 
 
+.float{
+	position:fixed;
+}
+
 /*----------------genealogy-tree----------*/
 .genealogy-body{
     white-space: nowrap;
