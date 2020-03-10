@@ -1,3 +1,4 @@
+ 
 /*----------------genealogy-scroll----------
 
 .genealogy-scroll::-webkit-scrollbar {
@@ -108,6 +109,21 @@
     border-radius: 7px;
     position: relative;
 }
+
+.member-view-box a{
+    text-decoration: none;
+    text-align: center;
+    color: #666;
+    font-family: Helvetica Neue, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 200;
+    display: inline-block;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+}
+
+
 .member-image{
     width: 60px;
     position: relative;
@@ -120,15 +136,4 @@
   z-index: 1;
 }
 
-a{
-    text-decoration: none;
-    text-align: center;
-    color: #666;
-    font-family: Helvetica Neue, Helvetica, sans-serif;
-    font-size: 11px;
-    font-weight: 200;
-    display: inline-block;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-}
+
