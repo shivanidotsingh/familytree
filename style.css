@@ -30,6 +30,7 @@ body {
 
 .float{
 	position:fixed;
+	text-align: left;
 }
 
 /*----------------genealogy-tree----------*/
