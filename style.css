@@ -29,8 +29,8 @@ body {
 }
 
 .float{
-	position:fixed;
 	text-align: left;
+	position:fixed;
 }
 
 /*----------------genealogy-tree----------*/
